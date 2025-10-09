@@ -1,5 +1,7 @@
 ![Warden Protocol](./docs/developer-docs/warden-logo.png)
 
+Owner Jonathon Maes
+
 [![Twitter](https://img.shields.io/twitter/follow/wardenprotocol)](https://x.com/wardenprotocol)
 
 ## Overview
